@@ -1,0 +1,177 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "CustomEntities",
+      "bundleOptions": {
+        "hash": "QfykstGk3aYJUg2WNf9yyQdyaEnPoFFeLkcWvnjS6oFYNMEL+w1ux00S7bAk7OETOky+O0MyRIOZM40eYnTv9g==",
+        "bundleName": "C3A25D8D00A_createPdf",
+        "entitiesBundle": {
+          "Types": {
+            "createPdf": {
+              "name": "createPdf",
+              "properties": [
+                {
+                  "name": "documentLanguage",
+                  "type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  },
+                  "attributes": {
+                    "values": [
+                      {
+                        "Type": {
+                          "ClrType": "System.Runtime.Serialization.DataMemberAttribute, System.Runtime.Serialization.Primitives"
+                        },
+                        "constructorArguments": [],
+                        "namedArguments": []
+                      },
+                      {
+                        "Type": {
+                          "ClrType": "System.ComponentModel.CategoryAttribute, System.ComponentModel.Primitives"
+                        },
+                        "constructorArguments": [
+                          {
+                            "Value": "\"Simplified\"",
+                            "type": {
+                              "ClrType": "System.String, System.Private.CoreLib"
+                            }
+                          }
+                        ],
+                        "namedArguments": []
+                      },
+                      {
+                        "Type": {
+                          "ClrType": "System.ComponentModel.DataAnnotations.DisplayAttribute, System.ComponentModel.Annotations"
+                        },
+                        "constructorArguments": [],
+                        "namedArguments": [
+                          {
+                            "name": "Name",
+                            "value": {
+                              "Value": "\"documentLanguage\"",
+                              "type": {
+                                "ClrType": "System.String, System.Private.CoreLib"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "id",
+                  "type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  },
+                  "attributes": {
+                    "values": [
+                      {
+                        "Type": {
+                          "ClrType": "System.Runtime.Serialization.DataMemberAttribute, System.Runtime.Serialization.Primitives"
+                        },
+                        "constructorArguments": [],
+                        "namedArguments": []
+                      },
+                      {
+                        "Type": {
+                          "ClrType": "System.ComponentModel.CategoryAttribute, System.ComponentModel.Primitives"
+                        },
+                        "constructorArguments": [
+                          {
+                            "Value": "\"Simplified\"",
+                            "type": {
+                              "ClrType": "System.String, System.Private.CoreLib"
+                            }
+                          }
+                        ],
+                        "namedArguments": []
+                      },
+                      {
+                        "Type": {
+                          "ClrType": "System.ComponentModel.DataAnnotations.DisplayAttribute, System.ComponentModel.Annotations"
+                        },
+                        "constructorArguments": [],
+                        "namedArguments": [
+                          {
+                            "name": "Name",
+                            "value": {
+                              "Value": "\"id\"",
+                              "type": {
+                                "ClrType": "System.String, System.Private.CoreLib"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "location",
+                  "type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  },
+                  "attributes": {
+                    "values": [
+                      {
+                        "Type": {
+                          "ClrType": "System.Runtime.Serialization.DataMemberAttribute, System.Runtime.Serialization.Primitives"
+                        },
+                        "constructorArguments": [],
+                        "namedArguments": []
+                      },
+                      {
+                        "Type": {
+                          "ClrType": "System.ComponentModel.DataAnnotations.DisplayAttribute, System.ComponentModel.Annotations"
+                        },
+                        "constructorArguments": [],
+                        "namedArguments": [
+                          {
+                            "name": "Name",
+                            "value": {
+                              "Value": "\"location\"",
+                              "type": {
+                                "ClrType": "System.String, System.Private.CoreLib"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "attributes": {
+                "values": [
+                  {
+                    "Type": {
+                      "ClrType": "System.Runtime.Serialization.DataContractAttribute, System.Runtime.Serialization.Primitives"
+                    },
+                    "constructorArguments": [],
+                    "namedArguments": []
+                  }
+                ]
+              },
+              "values": [],
+              "baseType": {
+                "ClrType": "UiPath.IntegrationService.Activities.Runtime.Models.RootJitObject, UiPath.IntegrationService.Activities.Runtime"
+              },
+              "generateChangeNotifications": true,
+              "skipEqualityCheckForChangeNotifications": true
+            }
+          },
+          "Metadata": {},
+          "version": 1
+        }
+      },
+      "entityAssemblyKey": {
+        "name": "UiPath.IntegrationService.Activities.SWEntities.C3A25D8D00A_createPdf",
+        "hash": "UWZ5a3N0R2szYVlKVWcyV05mOXl5UWR5YUVuUG9GRmVMa2NXdm5qUzZvRllOTUVMK3cxdXgwMFM3YkFrN09FVE9reStPME15UklPWk00MGVZblR2OWc9PQ",
+        "assemblyName": "C3A25D8D00A_createPd.CBmd24ViarM1S6eg54XngiX3"
+      }
+    }
+  ]
+}
